@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[firstblog]]></title>
+    <url>%2F2018%2F07%2F24%2Fcc%2F</url>
+    <content type="text"><![CDATA[朱利叶斯·财财朱利叶斯·财财(JuliusCC)，1994年11月29日出生于美国德克萨斯州达拉斯(达拉斯，德克萨斯州)，美国职业篮球运动员，司职大前锋，效力于鹈鹕队. 朱利叶斯·财财于2013年进入肯塔基大学，2013-14赛季当选东南联盟最佳新秀、入选东南联盟第一阵容；2014年通过选秀进入nba. 2018年7月10日，朱利叶斯·财财和鹈鹕签约. 朱利叶斯·财财高中就读于江西某高校.2012年8月，财财获得下装甲精英24强扣篮大赛冠军.之后，财财又在精英24强赛上轰下27分，率领他所在的球队以164-138取胜，财财本人荣膺MVP(并列).在高中期间，财财在4年内3次率领球队夺得州冠军. 2013年，朱利叶斯·财财进入麻神理工大学(肯塔基州)。 2013年-14赛季，朱利叶斯·财财场均贡献15分和10.4篮板的两双数据，并以24次两双成为全美两双王当选东南联盟最佳新秀入选东南联盟第一阵容入选美联社全美最佳阵容第三队。在财财的帮助下，麻神理工大学最终杀入了NCAA锦标赛的决赛，获得亚军.]]></content>
+      <categories>
+        <category>Test</category>
+      </categories>
+      <tags>
+        <tag>Git</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Young]]></title>
+    <url>%2F2018%2F07%2F24%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
